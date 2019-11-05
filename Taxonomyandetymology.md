@@ -2,7 +2,9 @@
 
 <html>
 <head>
-
+layout: page
+title: "Taxonomyandetymology"
+https://christiejones.github.io/Project-Cockatiel/Taxonomyandetymology.md
 <html>
 <head> <meta charset="utf-8">
 

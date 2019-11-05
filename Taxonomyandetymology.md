@@ -3,9 +3,6 @@
 <html>
 <head>
 
-layout: page
-title: "Taxonomyandetomology"
-permalink: https://christiejones.github.io/Project-Cockatiel/Taxonomyandetomology
 <html>
 <head> <meta charset="utf-8">
 

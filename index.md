@@ -1,6 +1,9 @@
 
 <html>
 <head> <meta charset="utf-8">
+layout: page
+title: "Taxonomyandetomology"
+permalink: https://christiejones.github.io/Project-Cockatiel/Taxonomyandetomology
 </head>
  <body>
 

@@ -5,7 +5,7 @@
     <title>My test page</title>
   </head>
   <body>
-<h2>Back to </h2><a href="Index.md">Main</a>
+<h2>Back to </h2><a href="index.md">Main</a>
 
 <h1>Taxonomy and etymology</h1    
 

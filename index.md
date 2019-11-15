@@ -2,7 +2,7 @@
 <html lang= "en">
   <header>
     <meta charset="utf-8">
-    <table border= "4" align= "left" width="80%">
+  
     <title>Home</title>
   </header>
   <body>
@@ -65,7 +65,8 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 
 </main>
 <section>
- <caption><h3>Scientific classification</h3></caption>
+<table border= "4" align= "left" width="80%">
+<caption><h3>Scientific classification</h3></caption>
 <tr>
 <th>Kingdom</th> 
 <th>Phylum</th> 
@@ -101,7 +102,5 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 <li><a href="Colour.html">Colour mutaions</a></li>
 <li><a href="Distribution.html">Distributon and habitat</a></li>
 </ul>
-
 </body>
-
 </html>

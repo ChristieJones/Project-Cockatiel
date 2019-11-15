@@ -3,8 +3,8 @@
      <meta charset="utf-8">
      <title>Home</title>
      </head>
-  <body>
-
+  
+<body>
    <p><img src="Cockatiels.jpg" align="right" /></p>
 
    <br clear="left" />

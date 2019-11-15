@@ -2,7 +2,6 @@
 <html lang= "en">
   <header>
     <meta charset="utf-8">
-  
     <title>Home</title>
   </header>
   <body>
@@ -63,7 +62,6 @@ Cockatiels are relatively vocal birds, the calls of the male being more varied t
 
 Cockatiels can be taught to sing specific melodies and speak many words and phrases.</p>
 
-</main>
 <section>
 <table border= "4" align= "left" width="80%">
 <caption><h3>Scientific classification</h3></caption>
@@ -103,4 +101,5 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 <li><a href="Distribution.html">Distributon and habitat</a></li>
 </ul>
 </body>
+
 </html>

@@ -36,7 +36,7 @@ Australia, favouring the Australian wetlands, scrublands, and bushlands.</p>
 
 <h3>Description</h3>
 
-<p><align="top" />The cockatiel's distinctive erectile crest expresses the animal's emotional state. The crest 
+<p align="top" />The cockatiel's distinctive erectile crest expresses the animal's emotional state. The crest 
 
 is dramatically vertical when the cockatiel is startled or excited, gently oblique in its neutral or relaxed 
 

@@ -63,10 +63,10 @@
  
   <caption>Scientific classification</caption>
    <table>
-   <tr colspan="2">
-    <th>Kingdom</th> 
-    <th>Phylum</th>
-    <th>Class</th> 
+   <tr>
+    <th colspan="2">Kingdom</th> 
+    <th colspan="2">Phylum</th>
+    <th colspan="2">Class</th> 
     <th>Order</th> 
     <th>Family</th> 
     <th>Subfamily</th> 
@@ -75,9 +75,9 @@
     </tr>
     <tr>
     <td rowspan="2">Animalia</td>
-    <td>Chordata</td>
-    <td>Aves</td>
-    <td>Psittaciformes</td>
+    <td rowspan="2">Chordata</td>
+    <td rowspan="2">Aves</td>
+    <td rowspan="2">Psittaciformes</td>
     <td>Cacatuidae</td>
     <td>Nymphicinae</td>
     <td>Nymphicus Wagler, 1832</td>

@@ -1,4 +1,6 @@
 
+    <!DOCTYPE html>
+
 <html lang= "en">
   <header>
     <meta charset="utf-8">
@@ -12,7 +14,7 @@
 
 <h1>Cockatiels</h1> 
 
-<main>
+    <main>
 
 <p align="left" /> The <strong>cockatiel</strong> <em>(Nymphicus hollandicus)</em>, also known as <strong>miniature cockatoo, 
 
@@ -90,8 +92,9 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 <td>Nymphicus hollandicus
 (Kerr, 1792)</td>
 </tr>
-</main>
-</section>
+
+    </main>
+    </section>
 <h2>More Information</h2>
 
 <ul>
@@ -100,6 +103,7 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 <li><a href="Colour.html">Colour mutaions</a></li>
 <li><a href="Distribution.html">Distributon and habitat</a></li>
 </ul>
-</body>
+    
+    </body>
 
-</html>
+    </html>

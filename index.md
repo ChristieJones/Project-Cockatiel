@@ -60,7 +60,6 @@
 </body>
 </html>
 
-<caption><h3>Scientific classification</h3></caption>
   <table border= "1" text-align: bottom width= "80%">
   <caption><h3>Scientific classification</h3></caption>
    <tr>

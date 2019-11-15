@@ -1,4 +1,4 @@
-<!DOCTYPE html5>
+
 <html lang= "en">
   <header>
     <meta charset="utf-8">
@@ -13,7 +13,6 @@
 <h1>Cockatiels</h1> 
 
 <main>
-
 
 <p align="left" /> The <strong>cockatiel</strong> <em>(Nymphicus hollandicus)</em>, also known as <strong>miniature cockatoo, 
 
@@ -101,6 +100,6 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 <td>Nymphicus hollandicus
 (Kerr, 1792)</td>
 </tr>
-
+</main>
   </body>
 </html>

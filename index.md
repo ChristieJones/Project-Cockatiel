@@ -1,7 +1,7 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
  <html lang= "en">
-  <header>
+   <header>
      <meta charset="utf-8">
      <title>Home</title>
      </header>
@@ -104,4 +104,4 @@
     
 </body>
 
-</html>
+  </html>

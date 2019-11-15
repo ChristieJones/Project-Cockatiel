@@ -74,9 +74,6 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 <li><a href="Colour.html">Colour mutaions</a></li>
 <li><a href="Distribution.html">Distributon and habitat</a></li>
 </ul>
-</nav>
-
-
 
 <table border= "4" align= "left" width="80%">
 <caption><h3>Scientific classification</h3></caption>
@@ -105,7 +102,6 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 <td>Nymphicus hollandicus
 (Kerr, 1792)</td>
 </tr>
-</section>
 
   </body>
 </html>

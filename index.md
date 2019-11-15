@@ -1,6 +1,6 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
 
- <html lang= "en">
+<html lang= "en">
    <header>
      <meta charset="utf-8">
      <title>Home</title>
@@ -14,7 +14,6 @@
    <h1>Cockatiels</h1> 
 
  <main>
-
    <p align="left" /> The <strong>cockatiel</strong> <em>(Nymphicus hollandicus)</em>, also known as <strong>miniature cockatoo, 
 
    weero</strong>, or <strong>quarrion</strong>, is a bird that is a member of its own branch of the cockatoo 
@@ -30,7 +29,6 @@
    is, therefore, now classified as the smallest of the Cacatuidae (cockatoo family). Cockatiels are native to 
 
    Australia, favouring the Australian wetlands, scrublands, and bushlands.</p>
-
 
   <h3>Description</h3>
 
@@ -62,9 +60,10 @@
 
    Cockatiels can be taught to sing specific melodies and speak many words and phrases.</p>
 
-<p><section>
-    <table border= "4" align= "left" width="80%">
-    <caption><h3>Scientific classification</h3></caption>
+<section>
+    
+ <table border= "4" align= "left" width="80%">
+ <caption><h3>Scientific classification</h3></caption>
     <tr>
     <th>Kingdom</th> 
     <th>Phylum</th> 
@@ -91,16 +90,15 @@
     (Kerr, 1792)</td>
     </tr>
 </main>
-  </section></p>
-    <h2>More Information</h2>
+    </section></p>
+<h2>More Information</h2>
 
-   <ul>
+<ul>
     <li><a href="Taxonomy.html">Taxonomy and etymology</a></li>
     <li><a href="Sexual.html">Sexual dimorphism</a></li>
     <li><a href="Colour.html">Colour mutaions</a></li>
     <li><a href="Distribution.html">Distributon and habitat</a></li>
-    </ul>
-    
- </body>
+</ul>
+</body>
 
-    </html>
+</html>

@@ -59,10 +59,10 @@
 
    Cockatiels can be taught to sing specific melodies and speak many words and phrases.</p>
 
-<section>
-    
- <table border= "4" align= "left" width="80%">
- <caption><h3>Scientific classification</h3></caption>
+<main>
+ <section> 
+  <table border= "4" align= "left" width="80%">
+  <caption><h3>Scientific classification</h3></caption>
     <tr>
     <th>Kingdom</th> 
     <th>Phylum</th> 
@@ -88,8 +88,9 @@
     <td>Nymphicus hollandicus
     (Kerr, 1792)</td>
     </tr>
+ </section>
 </main>
-    </section></p>
+    
 <h2>More Information</h2>
 
 <ul>
@@ -98,6 +99,6 @@
     <li><a href="Colour.html">Colour mutaions</a></li>
     <li><a href="Distribution.html">Distributon and habitat</a></li>
 </ul>
-</body>
 
+</body>
 </html>

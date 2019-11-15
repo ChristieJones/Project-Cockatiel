@@ -60,11 +60,11 @@
 </body>
 </html>
 
-  <table border= "2" text-align: center width="80%">
-  <caption><h2>Scientific classification</h2></caption>
+  <table border= "1" text-align: left width="30%">
+  <caption><h3>Scientific classification</h3></caption>
     <tr>
     <th>Kingdom</th> 
-    <th>Phylum</th> 
+    <br><th>Phylum</th></br>
     <th>Class</th> 
     <th>Order</th> 
     <th>Family</th> 

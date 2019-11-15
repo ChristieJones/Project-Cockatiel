@@ -1,15 +1,15 @@
 <html lang= "en">
-   <header>
+   <head>
      <meta charset="utf-8">
      <title>Home</title>
-     </header>
+     </head>
   <body>
 
    <p><img src="Cockatiels.jpg" align="right" /></p>
 
    <br clear="left" />
 
-   <h1>Cockatiels</h1> 
+   <header> <h1>Cockatiels</h1> </header>
 
  <main>
    <p> <text-align: left /> 
@@ -31,7 +31,7 @@
 
   <h3>Description</h3>
 
-   <p align="top" />The cockatiel's distinctive erectile crest expresses the animal's emotional state. The crest 
+   <p> <text-align: top />The cockatiel's distinctive erectile crest expresses the animal's emotional state. The crest 
 
    is dramatically vertical when the cockatiel is startled or excited, gently oblique in its neutral or relaxed 
 

@@ -64,17 +64,8 @@ Cockatiels are relatively vocal birds, the calls of the male being more varied t
 Cockatiels can be taught to sing specific melodies and speak many words and phrases.</p>
 
 </main>
-
-<h2>More Information</h2>
-
-<ul>
-<li><a href="Taxonomy.html">Taxonomy and etymology</a></li>
-<li><a href="Sexual.html">Sexual dimorphism</a></li>
-<li><a href="Colour.html">Colour mutaions</a></li>
-<li><a href="Distribution.html">Distributon and habitat</a></li>
-</ul>
-
-<caption><h3>Scientific classification</h3></caption>
+<section>
+ <caption><h3>Scientific classification</h3></caption>
 <tr>
 <th>Kingdom</th> 
 <th>Phylum</th> 
@@ -101,5 +92,16 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 (Kerr, 1792)</td>
 </tr>
 </main>
-  </body>
+</section>
+<h2>More Information</h2>
+
+<ul>
+<li><a href="Taxonomy.html">Taxonomy and etymology</a></li>
+<li><a href="Sexual.html">Sexual dimorphism</a></li>
+<li><a href="Colour.html">Colour mutaions</a></li>
+<li><a href="Distribution.html">Distributon and habitat</a></li>
+</ul>
+
+</body>
+
 </html>

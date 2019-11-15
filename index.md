@@ -64,7 +64,7 @@
   <caption><h3>Scientific classification</h3></caption>
     <tr>
     <th>Kingdom</th> 
-    <br><th>Phylum</th></br>
+    <th>Phylum</th>
     <th>Class</th> 
     <th>Order</th> 
     <th>Family</th> 

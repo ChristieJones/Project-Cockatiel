@@ -7,7 +7,7 @@
   <body>
 <h2>Back to </h2><a href="index.md">Main</a>
 
-<h1>Taxonomy and etymology</h1    
+<h1>Taxonomy and etymology</h1>
 
 <p>Originally described by Scottish writer and naturalist Robert Kerr in 1793 as Psittacus hollandicus, the cockatiel (or cockateel) was moved to its own genus, Nymphicus, by Wagler in 1832.[3] Its genus name reflects the experience of one of the earliest groups of Europeans to see the birds in their native habitat; the travellers thought the birds were so beautiful that they named them after mythical nymphs. The specific name hollandicus refers to New Holland, a historic name for Australia.</p>
 

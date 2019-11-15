@@ -65,7 +65,7 @@ Cockatiels are relatively vocal birds, the calls of the male being more varied t
 Cockatiels can be taught to sing specific melodies and speak many words and phrases.</p>
 
 </main>
-<nav>
+
 <h2>More Information</h2>
 
 <ul>

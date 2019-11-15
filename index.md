@@ -60,8 +60,8 @@
 </body>
 </html>
 
-  <table border= "2" align= "left" width="50%">
-  <caption><h3>Scientific classification</h3></caption>
+  <table border= "2" text-align: center width="80%">
+  <caption><h2>Scientific classification</h2></caption>
     <tr>
     <th>Kingdom</th> 
     <th>Phylum</th> 

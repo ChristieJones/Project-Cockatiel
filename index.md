@@ -12,7 +12,7 @@
    <h1>Cockatiels</h1> 
 
  <main>
-   <p> <align="left" /> 
+   <p> <text-align="left" /> 
    The <strong>cockatiel</strong> <em>(Nymphicus hollandicus)</em>, also known as <strong>miniature cockatoo, 
 
    weero</strong>, or <strong>quarrion</strong>, is a bird that is a member of its own branch of the cockatoo 

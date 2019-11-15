@@ -61,7 +61,7 @@
 </html>
 
   <table border= "1" text-align: bottom width= "80%">
-  <caption><h3>Scientific classification</h3></caption>
+  <caption>Scientific classification</caption>
    <tr>
     <th>Kingdom</th> 
     <th>Phylum</th>

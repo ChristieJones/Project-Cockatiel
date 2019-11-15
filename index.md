@@ -1,6 +1,6 @@
 
-<!DOCTYPE html>
 <html>
+  <!DOCTYPE html>
   <header>
     <meta charset="utf-8">
     <title>Home</title>
@@ -97,7 +97,7 @@ Cockatiels can be taught to sing specific melodies and speak many words and phra
 <td>Nymphicus Wagler, 1832</td>
 <td>N. hollandicus</td>
 </tr>
-
+<tr>
 <th>Binomial name</th>
 <td>Nymphicus hollandicus
 (Kerr, 1792)</td>

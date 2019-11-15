@@ -60,7 +60,7 @@
 </body>
 </html>
 
-  <table border= "1" text-align: bottom width= "80%">
+  <table border= "2" text-align: bottom width= "20%">
   <caption>Scientific classification</caption>
    <tr>
     <th>Kingdom</th> 

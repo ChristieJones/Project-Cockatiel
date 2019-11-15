@@ -63,7 +63,7 @@
  
   <caption>Scientific classification</caption>
    <table>
-   <tr>
+   <tr colspan="2">
     <th>Kingdom</th> 
     <th>Phylum</th>
     <th>Class</th> 
@@ -74,7 +74,7 @@
     <th>Species</th> 
     </tr>
     <tr>
-    <td>Animalia</td>
+    <td rowspan="2">Animalia</td>
     <td>Chordata</td>
     <td>Aves</td>
     <td>Psittaciformes</td>

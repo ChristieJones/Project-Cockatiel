@@ -62,6 +62,7 @@
 
  
   <caption>Scientific classification</caption>
+   <table>
    <tr>
     <th>Kingdom</th> 
     <th>Phylum</th>
@@ -87,7 +88,7 @@
     <td>Nymphicus hollandicus
     (Kerr, 1792)</td>
     </tr>
-    
+    </table>
 <h2>More Information</h2>
 
 <ul>

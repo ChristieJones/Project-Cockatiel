@@ -16,10 +16,10 @@
 
 <p>The cockatiel is now biologically classified as a genuine member of Cacatuidae on account of sharing all of the cockatoo family's biological features, namely, the erectile crest, a gallbladder, powder down, suppressed cloudy-layer (which precludes the display of blue and green structural colours), and facial feathers covering the sides of the beak, all of which are rarely found outside the family Cacatuidae. This biological relation to other cockatoos is further supported by the existence of at least one documented case of a successful hybrid between a cockatiel and a galah, another cockatoo species</p>
  
-<ol>
+<ul>
 <li><a href="Sexual.html">Sexual dimorphism</a></li>
 <li><a href="Colour.html">Colour mutaions</a></li>
 <li><a href="Distribution.html">Distributon and habitat</a></li>
-</ol>
+</ul>
  </body>
 </html>
